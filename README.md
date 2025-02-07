@@ -10,3 +10,6 @@ A Jupyter Notebook serves as a concise and efficient way to demonstrate this pro
 
 After calibration and using the identified direction vector, the truck's motion can be determined as follows:
 ![image](https://github.com/user-attachments/assets/b55575d7-dc7a-400e-ab14-91a66b1140ae)
+
+
+
